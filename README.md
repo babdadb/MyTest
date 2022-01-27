@@ -1,3 +1,0 @@
-# MyTest
-ahaha
-wow!
